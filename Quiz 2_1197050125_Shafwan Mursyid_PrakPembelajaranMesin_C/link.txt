@@ -1,0 +1,5 @@
+1. eksekusi pertemuan 2
+https://colab.research.google.com/drive/1aut-53TDY4wlPGv9-W22LP2FvKC1IONG?usp=sharing
+
+2. EKsekusi dataset
+https://colab.research.google.com/drive/13br5vIHrvnk6r0Ra1Sg-q-Jgg0Dbv73f?usp=sharing
